@@ -1,3 +1,4 @@
+/*
 package com.paaks.rest.webservices.restful_web_services.security;
 
 import static org.springframework.security.config.Customizer.withDefaults;
@@ -25,3 +26,4 @@ public class SpringSecurityConfiguration {
         return http.build();
     }
 }
+*/
