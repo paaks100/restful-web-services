@@ -11,3 +11,9 @@ insert into post(id, description, user_id) values(20002, 'I want to learn French
 insert into post(id, description, user_id) values(20003, 'I want to learn Spanish', 10003);
 
 insert into post(id, description, user_id) values(20004, 'Seventeen is amazing!!!', 10001);
+
+insert into todo(id, username, description, target_date, done) values(10001, 'paaks', 'Get AWS Certified', current_date(), false);
+
+insert into todo(id, username, description, target_date, done) values(10002, 'paaks', 'Learn DevOps', current_date(), false);
+
+insert into todo(id, username, description, target_date, done) values(10003, 'paaks', 'Learn Full Stack Development', current_date(), false);
